@@ -1,0 +1,10 @@
+NAME: RUSHANG KARIA
+ASU # 1206337661
+
+TO COMPILE
+
+gcc Q-Learn.c -o Q-learn
+
+TO RUN
+
+./Q-learn
